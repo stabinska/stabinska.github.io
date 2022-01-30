@@ -3,13 +3,13 @@
 title: Julia Stabinska, PhD
 description: Functional Renal MRI
 
+
 baseurl: /stabinska.github.io #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: stabin3@jhmi.edu
 
-remote_theme: jitinnair1/gradfolio
-
 highlighter: rouge
+remote_theme: jitinnair1/gradfolio
 markdown: kramdown
 
 # Pagination
@@ -60,6 +60,7 @@ exclude:
   - LICENSE.md
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-email-protect
