@@ -1,7 +1,7 @@
 ### your site title here
 remote_theme: "jitinnair1/gradfolio"
 title: Julia Stabinska, PhD
-description: 
+description:
 
 
 baseurl: "" #name of GitHub repository
@@ -23,6 +23,8 @@ linkedin: "#"
 github: "#"
 researchgate: "#"
 orcid: "#"
+
+keywords: MRI, renal MRI, kidney MRI, renal CEST, renal DWI, iopamidol, pH imaging
 
 highlighter: rouge
 markdown: kramdown
