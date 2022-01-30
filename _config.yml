@@ -26,6 +26,7 @@ researchgate: "#"
 orcid: "#"
 
 highlighter: rouge
+remote_theme: jitinnair1/gradfolio
 markdown: kramdown
 
 # Tracker
@@ -46,7 +47,7 @@ compress_html:
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /publications/:path/
 
 sass:
   sass_dir: /assets/css/_sass
