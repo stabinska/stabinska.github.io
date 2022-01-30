@@ -1,6 +1,9 @@
 ---
-layout: post
-title: "Hello World!"
+layout: about
+permalink: /
+profile:
+  align: right
+  image: profile.png
+published: true
 ---
-
-“Hello World!”
+Welcome to my Academic Website. I will post exciting news about my research here.
