@@ -1,5 +1,5 @@
 ### your site title here
-
+remote_theme: jitinnair1/gradfolio
 title: Julia Stabinska, PhD
 description: Functional Renal MRI
 
@@ -9,7 +9,6 @@ url: "" #custom url to be used instead of GitHub repository
 email: stabin3@jhmi.edu
 
 highlighter: rouge
-remote_theme: jitinnair1/gradfolio
 markdown: kramdown
 
 # Pagination
@@ -26,7 +25,6 @@ researchgate: "#"
 orcid: "#"
 
 highlighter: rouge
-remote_theme: jitinnair1/gradfolio
 markdown: kramdown
 
 # Tracker
