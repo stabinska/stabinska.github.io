@@ -7,6 +7,7 @@ baseurl: /stabinska.github.io #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: stabin3@jhmi.edu
 
+remote_theme: jitinnair1/gradfolio
 
 highlighter: rouge
 markdown: kramdown
