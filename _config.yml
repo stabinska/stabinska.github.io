@@ -1,11 +1,11 @@
 ### your site title here
 
 title: Julia Stabinska, PhD
-description: subtitle | affiliations | motto
+description: Functional Renal MRI
 
 baseurl: /stabinska.github.io #name of GitHub repository
-url: "https://stabinska.github.io" #custom url to be used instead of GitHub repository
-email: stabin3@jhmi.edu#
+url: "" #custom url to be used instead of GitHub repository
+email: stabin3@jhmi.edu
 
 
 highlighter: rouge
@@ -17,7 +17,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-# facebook: "#"
+#facebook: "#"
 twitter: "#"
 linkedin: "#"
 github: "#"
