@@ -18,11 +18,11 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 #facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+twitter: "JStabinska"
+linkedin: "julia-stabinska-2a54591aa/"
+github: "stabinska"
+researchgate: "Julia-Stabinska"
+orcid: "my-orcid?orcid=0000-0003-2730-4250"
 
 keywords: stabinska, MRI, renal MRI, kidney MRI, renal CEST, renal DWI, iopamidol, pH imaging
 

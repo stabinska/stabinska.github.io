@@ -1,9 +1,10 @@
 ---
-layout: about
-permalink: /
-profile:
-  align: right
-  image: profile.png
+layout: home
+permalink:
 published: true
 ---
-Welcome to my Academic Website. I will post exciting news about my research here.
+<ul>
+{% for post in site.posts %}
+    <h1><a href="{{ post.url }}">{{ post.title }}</a><h1>
+    {{ post.excerpt }}
+{% endfor %}
