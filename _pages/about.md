@@ -1,7 +1,7 @@
 ---
 title:
 layout: about
-permalink: /about/
+permalink: /About/
 profile:
   align: right
   image: profile.png
