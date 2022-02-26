@@ -1,10 +1,16 @@
 ---
-layout: home
+layout: default
 permalink:
 published: true
 ---
-<ul>
-{% for post in site.posts %}
-    <h1><a href="{{ post.url }}">{{ post.title }}</a><h1>
-    {{ post.excerpt }}
-{% endfor %}
+<h1 class="post-headline">{{page.title}}</h1>
+<p class="meta"><small>{{page.date | date: '%B %d, %Y'}}</small></p>
+
+{{content}}
+
+<!-- Comments only for posts -->
+{% if page.path contains '_posts' %}
+    {% if site.disqus-shortname %}
+        {% include disqus.html %}
+    {% endif %}
+{% endif %}
