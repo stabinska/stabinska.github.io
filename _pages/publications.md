@@ -20,7 +20,7 @@ published: true
 - Abrar DB, Schleich C, Radke KL, Frenken M, Stabinska J, Ljimani A, Wittsack HJ, Antoch G, Bittersohl B, Hesper T, Nebelung S, Müller-Lutz A. Detection of early cartilage degeneration in the tibiotalar joint using 3 T gagCEST imaging: a feasibility study. [Magnetic Resonance Materials in Physics, Biology and Medicine](https://doi.org/10.1007/s10334-020-00868-y)
 
 ### 2020
-- Stabinska J, Ljimani A, Frenken M, Feiweier T, Lanzman RS, Wittsack HJ. Comparison of PGSE and STEAM DTI acquisitions with varying diffusion times for probing anisotropic structures in human kidneys. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.28217)
+- Stabinska J, Ljimani A, Frenken M, Feiweier T, Lanzman RS, Wittsack HJ. Comparison of PGSE and STEAM DTI acquisitions with varying diffusion times for probing anisotropic structures in human kidneys. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.28217).
 
 ### 2019
 - Bechler E, Stabinska J, Wittsack HJ. Analysis of different phase unwrapping methods to optimize quantitative susceptibility mapping in the abdomen. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.27891)
