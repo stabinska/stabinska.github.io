@@ -5,6 +5,9 @@ permalink: /publications/
 published: true
 ---
 
+### 2022
+- Longo DL, Carella A, Corrado A, Pirotta E, Mohanta Z, Singh A, Stabinska J, Liu G, McMahon MT. A snapshot of the vast array of diamagnetic CEST MRI contrast agents. [NMR in Biomedicine](https://doi.org/10.1002/nbm.4715)
+
 ### 2021
 - Valentin B, Stabinska J, Reurik F, Tell C, Mewes AD, Müller-Lutz A, Antoch G, Rump LC, Wittsack HJ, Ljimani A. Feasibility of renal perfusion quantification by Fourier decomposition MRI. [Magnetic Resonance Imaging](https://doi.org/10.1016/j.mri.2021.10.003)
 
