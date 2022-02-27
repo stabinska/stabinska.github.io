@@ -1,8 +1,5 @@
 ---
 layout: post
-title: "Hello World!"
+title: "A snapshot of the vast array of diamagnetic CEST MRI contrast agents"
 ---
-
-“Hello World! This is the excerpt ... click on the post to see more”
-
-Welcome to my Academic Website. I will post exciting news about my research here.
+I am pleased to announce that our newest review article on diaCEST  agents is now published online in a special issue of NMR in Biomedicine! The purpose of this paper was to provide an updated overview of the various types of diamagnetic compounds suitable for molecular MRI. We focused on exogenous diaCEST probes, which are particularly promising candidates for clinical translation because of their safety profiles and potential to highlight a wide range of pathologies.
