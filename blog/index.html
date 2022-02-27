@@ -5,6 +5,9 @@ layout: default
 <div class="article-list">
   {% for post in paginator.posts %}
     <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+    {% assign excerpt_length = site.excerpt_length | default = 50 %}
+    {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length}}
+    {%% assign excerpt_word_count = post.excerpt | number_of_words %}
     <p>{{post.excerpt | strip_html}}</p>
   {% endfor %}
 </div>

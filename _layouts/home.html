@@ -11,7 +11,4 @@ layout: default
     {% if site.disqus-shortname %}
         {% include disqus.html %}
     {% endif %}
-    {% assign excerpt_length = site.excerpt_length | default = 50 %}
-    {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length}}
-    {%% assign excerpt_word_count = post.excerpt | number_of_words %}
 {% endif %}
