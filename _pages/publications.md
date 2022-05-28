@@ -6,6 +6,9 @@ published: true
 ---
 
 ### 2022
+
+- Stabinska J, Müller-Lutz A, Wittsack HJ, Tell C, Rump LC, Ertas N, Antoch G, Ljimani A. Two point Dixon-based chemical exchange saturation transfer (CEST) MRI in renal transplant patients on 3 T. [Magn Reson Imaging](https://doi.org/10.1016/j.mri.2022.04.004)
+
 - Longo DL, Carella A, Corrado A, Pirotta E, Mohanta Z, Singh A, Stabinska J, Liu G, McMahon MT. A snapshot of the vast array of diamagnetic CEST MRI contrast agents. [NMR in Biomedicine](https://doi.org/10.1002/nbm.4715)
 
 ### 2021
