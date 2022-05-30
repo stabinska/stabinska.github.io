@@ -8,5 +8,4 @@ Away from our normal workspace and routines, we've just spent two very exciting 
 I genuinely enjoyed the opportunity to learn about great research being conducted in our department.
 I am also particularly happy and honored that my presentation "DCE-MR CEST Urography for characterizing urinary tract obstructions" was awarded with the best presentation prize.
 
-![Best Presentation Award](/assets/images/PeterJuliaPaul.jpg){:class="img-responsive"}{:width="25%"}
-*Best Presentation prize awarded by Peter van Zijl and Paul Bottomley*
+![Best Presentation Award](/assets/images/PeterJuliaPaul.jpg){:class="img-responsive"}{:width="50%"}
